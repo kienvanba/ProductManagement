@@ -1,0 +1,14 @@
+D:\Studies\Visual_Workspace\DXApplication1\Management\bin\Debug\Management.exe
+D:\Studies\Visual_Workspace\DXApplication1\Management\bin\Debug\Management.pdb
+D:\Studies\Visual_Workspace\DXApplication1\Management\obj\Debug\Management.csprojResolveAssemblyReference.cache
+D:\Studies\Visual_Workspace\DXApplication1\Management\obj\Debug\Management.FrmLogin.resources
+D:\Studies\Visual_Workspace\DXApplication1\Management\obj\Debug\Management.Properties.Resources.resources
+D:\Studies\Visual_Workspace\DXApplication1\Management\obj\Debug\Management.csproj.GenerateResource.Cache
+D:\Studies\Visual_Workspace\DXApplication1\Management\obj\Debug\Management.exe.licenses
+D:\Studies\Visual_Workspace\DXApplication1\Management\obj\Debug\Management.exe
+D:\Studies\Visual_Workspace\DXApplication1\Management\obj\Debug\Management.pdb
+D:\Studies\Visual_Workspace\DXApplication1\Management\obj\Debug\Management.FrmMain.resources
+D:\Studies\Visual_Workspace\DXApplication1\Management\obj\Debug\Management.FrmImport.resources
+D:\Studies\Visual_Workspace\DXApplication1\Management\obj\Debug\Management.FrmExport.resources
+D:\Studies\Visual_Workspace\DXApplication1\Management\bin\Debug\Management.exe.config
+D:\Studies\Visual_Workspace\DXApplication1\Management\obj\Debug\Management.Form2.resources
